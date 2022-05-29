@@ -1,0 +1,13 @@
+# this docker compose file can be used to start an sftp server on local development environment
+# the user to login is "testuser", its private key is in b2b-inbox/id_rsa_testuser
+# the host key is printed on startup
+
+version: '3'
+services:
+  b2b-inbox-sftp:
+    build: .
+    ports:
+    - "2222:22"
+    volumes:
+      - ./b2b-inbox/id_rsa_testuser.pub:/home/testuser/.ssh/keys/id_rsa_testuser.pub:ro
+      - ./b2b-inbox/testdata:/home/testuser/upload:ro

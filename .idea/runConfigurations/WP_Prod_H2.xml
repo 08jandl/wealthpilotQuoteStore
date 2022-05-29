@@ -1,0 +1,64 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="WP Prod H2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="ACTIVE_PROFILES" value="prod" />
+    <additionalParameters>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="spring.jpa.database-platform" />
+        <option name="value" value="com.wealthpilot.jpa.FixedH2Dialect" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="spring.jpa.database" />
+        <option name="value" value="h2" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="spring.datasource.url" />
+        <option name="value" value="jdbc:h2:file:./target/h2-db/pwp;AUTO_SERVER=TRUE;NON_KEYWORDS=KEY,VALUE,YEAR;DEFAULT_LOCK_TIMEOUT=999999999" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="spring.datasource.username" />
+        <option name="value" value="pwp" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="common-jpa.database-encryption.v02-password" />
+        <option name="value" value="pwp2" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="jhipster.cron.allNightlyUpdatesEnabled" />
+        <option name="value" value="false" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="common-jpa.database-encryption.v03-password" />
+        <option name="value" value="pwp" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="common-jpa.database-encryption.v04-password" />
+        <option name="value" value="pwp" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="common-jpa.database-encryption.v05-password" />
+        <option name="value" value="pwp" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="common-jpa.database-encryption.v06-password" />
+        <option name="value" value="pwp" />
+      </param>
+    </additionalParameters>
+    <module name="wealthpilot-app" />
+    <option name="SHORTEN_COMMAND_LINE" value="ARGS_FILE" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.wealthpilot.PwpApp" />
+    <option name="VM_PARAMETERS" value="--illegal-access=warn" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

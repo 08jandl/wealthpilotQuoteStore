@@ -1,0 +1,3 @@
+# ignore all testdata except for the readme file:
+b2b-inbox/testdata/**
+!b2b-inbox/testdata/README.md

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="com.fasterxml.jackson.annotation.JsonProperty" />
+      <item index="1" class="java.lang.String" itemvalue="com.tngtech.archunit.junit.ArchTest" />
+      <item index="2" class="java.lang.String" itemvalue="javax.annotation.PostConstruct" />
+      <item index="3" class="java.lang.String" itemvalue="org.junit.jupiter.api.BeforeEach" />
+      <item index="4" class="java.lang.String" itemvalue="org.mockito.Mock" />
+      <item index="5" class="java.lang.String" itemvalue="org.mockito.Spy" />
+      <item index="6" class="java.lang.String" itemvalue="org.springframework.web.bind.annotation.ExceptionHandler" />
+      <item index="7" class="java.lang.String" itemvalue="org.springframework.web.bind.annotation.RestController" />
+    </list>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/wealthpilot-app/pom.xml" />
+        <option value="$PROJECT_DIR$/wealthpilot-b2b-import-common/pom.xml" />
+        <option value="$PROJECT_DIR$/wealthpilot-b2b-import-util/pom.xml" />
+        <option value="$PROJECT_DIR$/wealthpilot-b2b-monitoring/pom.xml" />
+        <option value="$PROJECT_DIR$/wealthpilot-b2b-processor/pom.xml" />
+        <option value="$PROJECT_DIR$/wealthpilot-common-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/wealthpilot-common-test/pom.xml" />
+        <option value="$PROJECT_DIR$/wealthpilot-common/pom.xml" />
+        <option value="$PROJECT_DIR$/wealthpilot-currency-conversion/pom.xml" />
+        <option value="$PROJECT_DIR$/wealthpilot-data-provider-refinitiv/pom.xml" />
+        <option value="$PROJECT_DIR$/wealthpilot-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/wealthpilot-quote-api/pom.xml" />
+        <option value="$PROJECT_DIR$/wealthpilot-transactions-adapter-avro/pom.xml" />
+        <option value="$PROJECT_DIR$/wealthpilot-transactions-adapter-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/wealthpilot-transactions-adapter-misc/pom.xml" />
+        <option value="$PROJECT_DIR$/wealthpilot-transactions-core/pom.xml" />
+        <option value="$PROJECT_DIR$/wealthpilot-userflow-api/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="org.springframework.lang.Nullable" />
+    <option name="myDefaultNotNull" value="org.springframework.lang.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="15">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="3" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+          <item index="6" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNullable" />
+          <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.Nullable" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableDecl" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
+          <item index="10" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
+          <item index="11" class="java.lang.String" itemvalue="org.springframework.lang.Nullable" />
+          <item index="12" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.Nullable" />
+          <item index="13" class="java.lang.String" itemvalue="io.reactivex.annotations.Nullable" />
+          <item index="14" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.Nullable" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="15">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.NonNull" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNonNull" />
+          <item index="6" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.NonNull" />
+          <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullDecl" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullType" />
+          <item index="9" class="java.lang.String" itemvalue="com.android.annotations.NonNull" />
+          <item index="10" class="java.lang.String" itemvalue="org.springframework.lang.NonNull" />
+          <item index="11" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.annotations.NonNull" />
+          <item index="13" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.NonNull" />
+          <item index="14" class="java.lang.String" itemvalue="lombok.NonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="PDMPlugin">
+    <option name="customRuleSets">
+      <list>
+        <option value="$PROJECT_DIR$/pmd-ruleset.xml" />
+      </list>
+    </option>
+    <option name="options">
+      <map>
+        <entry key="Statistics URL" value="" />
+        <entry key="Target JDK" value="1.8" />
+      </map>
+    </option>
+    <option name="scanFilesBeforeCheckin" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+  <component name="WebPackConfiguration">
+    <option name="mode" value="MANUAL" />
+    <option name="path" value="$PROJECT_DIR$/webpack/webpack.dev.js" />
+  </component>
+</project>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docker/local/sftp/mftpwphuh/mftpwphuh/KD_WPHUH_20210726" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/docker/local/sftp/mftpwphuh/mftpwphuh/KK_WPHUH_20210726" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/resources/config/b2b-testdata/AAB/tabellen/auftragsart_20180508.csv" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/resources/config/b2b-testdata/COMDIRECT/pwp-testpartner02_S.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/resources/config/b2b-testdata/DAB" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/resources/config/b2b-testdata/DAB/DC20_20180203ktoPWP-testpartner02.exp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/resources/config/b2b-testdata/DAB/DC20_20180203ktoPWP-testpartner02.initial" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/resources/config/b2b-testdata/DAB/DC20_20180206ktoPWP-testpartner02.exp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/resources/config/b2b-testdata/DAB/DC20_20180206wpPWP-testpartner02.exp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/resources/config/b2b-testdata/DAB/DC20_20180207ktoPWP-testpartner02.exp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/resources/config/b2b-testdata/DAB/DC20_20180207wpPWP-testpartner02.exp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/resources/config/b2b-testdata/DAB/DC20_20180208ktoPWP-testpartner02.exp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/resources/config/b2b-testdata/DAB/DC20_20180208wpPWP-testpartner01.initial" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/resources/config/b2b-testdata/DAB/DC20_20180208wpPWP-testpartner02.exp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/resources/config/b2b-testdata/DAB/DC20_NE_20180109ktoPWP-testpartner02.exp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/resources/config/b2b-testdata/DAB/DC20_NE_20180109wpPWP-testpartner01.exp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/resources/config/b2b-testdata/VBANK/pwp-testpartner01" charset="ISO-8859-15" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/main/resources/config/b2b-testdata/VBANK/pwp-testpartner02" charset="ISO-8859-15" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/test/resources/b2b/ebase/DP_WPHUH_20210726" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/test/resources/b2b/ebase/KD_WPHUH_20210726" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/test/resources/b2b/ebase/KK_WPHUH_20210726" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/src/test/resources/b2b/ebase/WP_WPHUH_20210726" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-app/target/generated-sources/cxf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-b2b-import-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-b2b-import-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-b2b-monitoring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-b2b-processor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-common-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-common-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-currency-conversion/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-data-provider-refinitiv/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-quote-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-quote-store/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-transactions-adapter-avro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-transactions-adapter-avro/target/generated-sources/avro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-transactions-adapter-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-transactions-adapter-misc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-transactions-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wealthpilot-userflow-api/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

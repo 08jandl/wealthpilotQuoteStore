@@ -1,0 +1,1251 @@
+{
+  "categories": [
+    {
+      "id": 301,
+      "name": "Auto & Transport",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": [
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ]
+    },
+    {
+      "id": 302,
+      "name": "KFZ-Kredit",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 303,
+      "name": "KFZ-Leasing",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 304,
+      "name": "Bußgeld",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 305,
+      "name": "KFZ-Steuer",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 306,
+      "name": "KFZ-Versicherung",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 307,
+      "name": "Parken und Garage",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 308,
+      "name": "Tanken",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 309,
+      "name": "TÜV",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 310,
+      "name": "Wartung und Reparatur",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 311,
+      "name": "Bildung & Beruf",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": [
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319
+      ]
+    },
+    {
+      "id": 312,
+      "name": "Fahrtkosten",
+      "parentId": 311,
+      "parentName": "Bildung & Beruf",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 313,
+      "name": "Lehrmaterial",
+      "parentId": 311,
+      "parentName": "Bildung & Beruf",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 314,
+      "name": "Ausbildungsgebühren",
+      "parentId": 311,
+      "parentName": "Bildung & Beruf",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 315,
+      "name": "BAFÖG & Studienkredit",
+      "parentId": 311,
+      "parentName": "Bildung & Beruf",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 316,
+      "name": "Berufsausstattung",
+      "parentId": 311,
+      "parentName": "Bildung & Beruf",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 317,
+      "name": "Gewerkschaft und Verband",
+      "parentId": 311,
+      "parentName": "Bildung & Beruf",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 318,
+      "name": "Kantine und Verpflegung",
+      "parentId": 311,
+      "parentName": "Bildung & Beruf",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 319,
+      "name": "Private Auslage",
+      "parentId": 311,
+      "parentName": "Bildung & Beruf",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 320,
+      "name": "Einkommen",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": [
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332
+      ]
+    },
+    {
+      "id": 321,
+      "name": "Bonus",
+      "parentId": 320,
+      "parentName": "Einkommen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 322,
+      "name": "Erbschaft und Schenkung",
+      "parentId": 320,
+      "parentName": "Einkommen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 323,
+      "name": "Gehalt",
+      "parentId": 320,
+      "parentName": "Einkommen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 324,
+      "name": "Kapitaleinkommen",
+      "parentId": 320,
+      "parentName": "Einkommen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 325,
+      "name": "Mieteinnahmen",
+      "parentId": 320,
+      "parentName": "Einkommen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 326,
+      "name": "Rente und Pension",
+      "parentId": 320,
+      "parentName": "Einkommen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 327,
+      "name": "Staatliche Leistung",
+      "parentId": 320,
+      "parentName": "Einkommen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 328,
+      "name": "Steuer / Rückerstattung",
+      "parentId": 320,
+      "parentName": "Einkommen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 329,
+      "name": "Stipendium",
+      "parentId": 320,
+      "parentName": "Einkommen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 330,
+      "name": "Unterhalt",
+      "parentId": 320,
+      "parentName": "Einkommen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 331,
+      "name": "Taschengeld",
+      "parentId": 320,
+      "parentName": "Einkommen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 332,
+      "name": "Privater Veräußerungsgewinn",
+      "parentId": 320,
+      "parentName": "Einkommen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 333,
+      "name": "Finanzen & Beratung",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": [
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        438
+      ]
+    },
+    {
+      "id": 334,
+      "name": "Bankgebühr",
+      "parentId": 333,
+      "parentName": "Finanzen & Beratung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 335,
+      "name": "Barabhebung",
+      "parentId": 333,
+      "parentName": "Finanzen & Beratung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 336,
+      "name": "Finanzberatung",
+      "parentId": 333,
+      "parentName": "Finanzen & Beratung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 337,
+      "name": "Geldanlage",
+      "parentId": 333,
+      "parentName": "Finanzen & Beratung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 338,
+      "name": "Kontentransfer",
+      "parentId": 333,
+      "parentName": "Finanzen & Beratung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 339,
+      "name": "Kreditauszahlung / -tilgung",
+      "parentId": 333,
+      "parentName": "Finanzen & Beratung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 340,
+      "name": "Kreditkartenabrechnung",
+      "parentId": 333,
+      "parentName": "Finanzen & Beratung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 341,
+      "name": "Kreditzinsen",
+      "parentId": 333,
+      "parentName": "Finanzen & Beratung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 342,
+      "name": "Rechtsberatung",
+      "parentId": 333,
+      "parentName": "Finanzen & Beratung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 343,
+      "name": "Steuerberatung",
+      "parentId": 333,
+      "parentName": "Finanzen & Beratung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 344,
+      "name": "Gewerbe",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": [
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356
+      ]
+    },
+    {
+      "id": 345,
+      "name": "Honorar, Gage",
+      "parentId": 344,
+      "parentName": "Gewerbe",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 346,
+      "name": "Geschäftseinnahme",
+      "parentId": 344,
+      "parentName": "Gewerbe",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 347,
+      "name": "Büromaterial",
+      "parentId": 344,
+      "parentName": "Gewerbe",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 348,
+      "name": "Büromiete",
+      "parentId": 344,
+      "parentName": "Gewerbe",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 349,
+      "name": "Fremdleistung",
+      "parentId": 344,
+      "parentName": "Gewerbe",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 350,
+      "name": "Geschäftsausstattung",
+      "parentId": 344,
+      "parentName": "Gewerbe",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 351,
+      "name": "Geschäftskommunikation",
+      "parentId": 344,
+      "parentName": "Gewerbe",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 352,
+      "name": "Geschäftsreise",
+      "parentId": 344,
+      "parentName": "Gewerbe",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 353,
+      "name": "Gewerbliche Steuer",
+      "parentId": 344,
+      "parentName": "Gewerbe",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 354,
+      "name": "Kammer und Berufsverband",
+      "parentId": 344,
+      "parentName": "Gewerbe",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 355,
+      "name": "Bewirtung",
+      "parentId": 344,
+      "parentName": "Gewerbe",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 356,
+      "name": "Personal",
+      "parentId": 344,
+      "parentName": "Gewerbe",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 357,
+      "name": "Gesundheit, Wellness, Pflege",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": [
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367
+      ]
+    },
+    {
+      "id": 358,
+      "name": "Apotheke",
+      "parentId": 357,
+      "parentName": "Gesundheit, Wellness, Pflege",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 359,
+      "name": "Arztbehandlung",
+      "parentId": 357,
+      "parentName": "Gesundheit, Wellness, Pflege",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 360,
+      "name": "Beratung & Therapie",
+      "parentId": 357,
+      "parentName": "Gesundheit, Wellness, Pflege",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 361,
+      "name": "Friseur",
+      "parentId": 357,
+      "parentName": "Gesundheit, Wellness, Pflege",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 362,
+      "name": "Heilbehandlung",
+      "parentId": 357,
+      "parentName": "Gesundheit, Wellness, Pflege",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 363,
+      "name": "Kosmetik & Pflege",
+      "parentId": 357,
+      "parentName": "Gesundheit, Wellness, Pflege",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 364,
+      "name": "Optiker",
+      "parentId": 357,
+      "parentName": "Gesundheit, Wellness, Pflege",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 365,
+      "name": "Sanitätsbedarf",
+      "parentId": 357,
+      "parentName": "Gesundheit, Wellness, Pflege",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 366,
+      "name": "Fitness & Wellness",
+      "parentId": 357,
+      "parentName": "Gesundheit, Wellness, Pflege",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 367,
+      "name": "Zahnarzt",
+      "parentId": 357,
+      "parentName": "Gesundheit, Wellness, Pflege",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 368,
+      "name": "Haustier",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": [
+        369,
+        370,
+        371,
+        372
+      ]
+    },
+    {
+      "id": 369,
+      "name": "Tierarzt",
+      "parentId": 368,
+      "parentName": "Haustier",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 370,
+      "name": "Tierbedarf",
+      "parentId": 368,
+      "parentName": "Haustier",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 371,
+      "name": "Tierpflege",
+      "parentId": 368,
+      "parentName": "Haustier",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 372,
+      "name": "Tiersteuer und Abgabe",
+      "parentId": 368,
+      "parentName": "Haustier",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 373,
+      "name": "Freizeit, Hobbys & Soziales",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": [
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382
+      ]
+    },
+    {
+      "id": 374,
+      "name": "Geschenk",
+      "parentId": 373,
+      "parentName": "Freizeit, Hobbys & Soziales",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 375,
+      "name": "Hobbys",
+      "parentId": 373,
+      "parentName": "Freizeit, Hobbys & Soziales",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 376,
+      "name": "Kirche",
+      "parentId": 373,
+      "parentName": "Freizeit, Hobbys & Soziales",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 377,
+      "name": "Party und Ausgehen",
+      "parentId": 373,
+      "parentName": "Freizeit, Hobbys & Soziales",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 378,
+      "name": "Restaurant",
+      "parentId": 373,
+      "parentName": "Freizeit, Hobbys & Soziales",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 379,
+      "name": "Spende",
+      "parentId": 373,
+      "parentName": "Freizeit, Hobbys & Soziales",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 380,
+      "name": "Sportausrüstung",
+      "parentId": 373,
+      "parentName": "Freizeit, Hobbys & Soziales",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 381,
+      "name": "Sport",
+      "parentId": 373,
+      "parentName": "Freizeit, Hobbys & Soziales",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 382,
+      "name": "Verein",
+      "parentId": 373,
+      "parentName": "Freizeit, Hobbys & Soziales",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 383,
+      "name": "Kinder",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": [
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390
+      ]
+    },
+    {
+      "id": 384,
+      "name": "Taschengeld",
+      "parentId": 383,
+      "parentName": "Kinder",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 385,
+      "name": "Kinderbetreuung",
+      "parentId": 383,
+      "parentName": "Kinder",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 386,
+      "name": "Kinderaktivitäten",
+      "parentId": 383,
+      "parentName": "Kinder",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 387,
+      "name": "Kinderbekleidung",
+      "parentId": 383,
+      "parentName": "Kinder",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 388,
+      "name": "Spielwaren",
+      "parentId": 383,
+      "parentName": "Kinder",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 389,
+      "name": "Unterhalt",
+      "parentId": 383,
+      "parentName": "Kinder",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 390,
+      "name": "Babybedarf",
+      "parentId": 383,
+      "parentName": "Kinder",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 391,
+      "name": "Shopping & Unterhaltung",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": [
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400
+      ]
+    },
+    {
+      "id": 392,
+      "name": "Bücher",
+      "parentId": 391,
+      "parentName": "Shopping & Unterhaltung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 393,
+      "name": "Elektronik & Software",
+      "parentId": 391,
+      "parentName": "Shopping & Unterhaltung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 394,
+      "name": "Filme",
+      "parentId": 391,
+      "parentName": "Shopping & Unterhaltung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 395,
+      "name": "Kunst & Kultur",
+      "parentId": 391,
+      "parentName": "Shopping & Unterhaltung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 396,
+      "name": "Musik",
+      "parentId": 391,
+      "parentName": "Shopping & Unterhaltung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 397,
+      "name": "Schuhe",
+      "parentId": 391,
+      "parentName": "Shopping & Unterhaltung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 398,
+      "name": "Schmuck & Accessoires",
+      "parentId": 391,
+      "parentName": "Shopping & Unterhaltung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 399,
+      "name": "TV",
+      "parentId": 391,
+      "parentName": "Shopping & Unterhaltung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 400,
+      "name": "Zeitungen & Zeitschriften",
+      "parentId": 391,
+      "parentName": "Shopping & Unterhaltung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 401,
+      "name": "Lebenshaltung",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": [
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408
+      ]
+    },
+    {
+      "id": 402,
+      "name": "Bekleidung",
+      "parentId": 401,
+      "parentName": "Lebenshaltung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 403,
+      "name": "Drogerie",
+      "parentId": 401,
+      "parentName": "Lebenshaltung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 404,
+      "name": "Festnetz & Internet",
+      "parentId": 401,
+      "parentName": "Lebenshaltung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 405,
+      "name": "Handy",
+      "parentId": 401,
+      "parentName": "Lebenshaltung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 406,
+      "name": "Lebensmittel & Getränke",
+      "parentId": 401,
+      "parentName": "Lebenshaltung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 407,
+      "name": "Spirituosen & Tabak",
+      "parentId": 401,
+      "parentName": "Lebenshaltung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 408,
+      "name": "Wäscherei",
+      "parentId": 401,
+      "parentName": "Lebenshaltung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 409,
+      "name": "Reisen",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": [
+        410,
+        411,
+        412,
+        413,
+        414,
+        415,
+        416
+      ]
+    },
+    {
+      "id": 410,
+      "name": "Ausflug",
+      "parentId": 409,
+      "parentName": "Reisen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 411,
+      "name": "Bahn",
+      "parentId": 409,
+      "parentName": "Reisen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 412,
+      "name": "Flug",
+      "parentId": 409,
+      "parentName": "Reisen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 413,
+      "name": "Hotel und Unterkunft",
+      "parentId": 409,
+      "parentName": "Reisen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 414,
+      "name": "Mietwagen",
+      "parentId": 409,
+      "parentName": "Reisen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 415,
+      "name": "Nahverkehr",
+      "parentId": 409,
+      "parentName": "Reisen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 416,
+      "name": "Taxi",
+      "parentId": 409,
+      "parentName": "Reisen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 417,
+      "name": "Sonstige",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 418,
+      "name": "Versicherung",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": [
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425
+      ]
+    },
+    {
+      "id": 419,
+      "name": "Berufsunfähigkeit",
+      "parentId": 418,
+      "parentName": "Versicherung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 420,
+      "name": "Haftpflicht",
+      "parentId": 418,
+      "parentName": "Versicherung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 421,
+      "name": "Krankenversicherung",
+      "parentId": 418,
+      "parentName": "Versicherung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 422,
+      "name": "Lebensversicherung",
+      "parentId": 418,
+      "parentName": "Versicherung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 423,
+      "name": "Pflegeversicherung",
+      "parentId": 418,
+      "parentName": "Versicherung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 424,
+      "name": "Rechtsschutzversicherung",
+      "parentId": 418,
+      "parentName": "Versicherung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 425,
+      "name": "Unfallversicherung",
+      "parentId": 418,
+      "parentName": "Versicherung",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 426,
+      "name": "Wohnen",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": [
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437
+      ]
+    },
+    {
+      "id": 427,
+      "name": "Wohnnebenkosten",
+      "parentId": 426,
+      "parentName": "Wohnen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 428,
+      "name": "Miete",
+      "parentId": 426,
+      "parentName": "Wohnen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 429,
+      "name": "Immobilienkredit",
+      "parentId": 426,
+      "parentName": "Wohnen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 430,
+      "name": "Haushaltsgeräte",
+      "parentId": 426,
+      "parentName": "Wohnen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 431,
+      "name": "Haushaltsdienstleistung",
+      "parentId": 426,
+      "parentName": "Wohnen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 432,
+      "name": "Haushaltsversicherung",
+      "parentId": 426,
+      "parentName": "Wohnen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 433,
+      "name": "Haushaltsbedarf",
+      "parentId": 426,
+      "parentName": "Wohnen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 434,
+      "name": "Garten",
+      "parentId": 426,
+      "parentName": "Wohnen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 435,
+      "name": "Heimwerken & Baustoffe",
+      "parentId": 426,
+      "parentName": "Wohnen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 436,
+      "name": "Möbel & Dekoration",
+      "parentId": 426,
+      "parentName": "Wohnen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 437,
+      "name": "Grundsteuer",
+      "parentId": 426,
+      "parentName": "Wohnen",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 438,
+      "name": "Bareinzahlung",
+      "parentId": 333,
+      "parentName": "Finanzen & Beratung",
+      "isCustom": false,
+      "children": null
+    }
+  ],
+  "paging": {
+    "page": 1,
+    "perPage": 100,
+    "pageCount": 2,
+    "totalCount": 138
+  }
+}

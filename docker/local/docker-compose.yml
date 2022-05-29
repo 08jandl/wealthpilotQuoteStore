@@ -1,0 +1,37 @@
+version: '3.1'
+
+services:
+    pwp_local_b2b_sftp:
+        image: atmoz/sftp
+        container_name: pwp_local_b2b_sftp
+        restart: unless-stopped
+        ports:
+            - '2222:22'
+        volumes:
+            - ./sftp/ssh_host_ed25519_key:/etc/ssh/ssh_host_ed25519_key
+            - ./sftp/ssh_host_rsa_key:/etc/ssh/ssh_host_rsa_key
+            - ./sftp/users.conf:/etc/sftp/users.conf:ro
+            - ./sftp/id_rsa_local_sftp.pub:/home/volksbank_rll/.ssh/keys/id_rsa_local_sftp.pub:ro
+            - ./sftp/id_rsa_local_sftp.pub:/home/mftpwphuh/.ssh/keys/id_rsa.pub:ro
+            # volksbank rll upload directory
+            - ./sftp/volksbank_rll/upload:/home/volksbank_rll/upload
+            # ebase upload directory
+            - ./sftp/mftpwphuh:/home/mftpwphuh/
+        networks:
+            - pwp_local_net
+    pwp_local_db:
+        image: postgres
+        container_name: pwp_local_db
+        restart: unless-stopped
+        environment:
+            POSTGRES_USER: pwp
+            POSTGRES_PASSWORD: password
+        ports:
+            - '15432:5432'
+        volumes:
+            - ./db:/var/lib/postgresql/data
+        networks:
+            - pwp_local_net
+networks:
+    pwp_local_net:
+        driver: bridge

@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="WP Javascript" type="JavascriptDebugType" uri="http://localhost:9000">
+    <mapping url="http://localhost:9000" local-file="$PROJECT_DIR$/src/main/webapp/dist" />
+    <method v="2" />
+  </configuration>
+</component>

@@ -1,0 +1,60 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="WP Prod Postgres localhost" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="wealthpilot-app" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.wealthpilot.PwpApp" />
+    <option name="ACTIVE_PROFILES" value="prod" />
+    <option name="VM_PARAMETERS" value="-DxxXmx2048m -Dxxhttps.proxyHost=localhost -Dxxhttps.proxyPort=7777 --illegal-access=warn" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+    <additionalParameters>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="common-jpa.database-encryption.v02-password" />
+        <option name="value" value="pwp2" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="common-jpa.database-encryption.v03-password" />
+        <option name="value" value="pwp3" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="common-jpa.database-encryption.v04-password" />
+        <option name="value" value="pwp4" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="common-jpa.database-encryption.v05-password" />
+        <option name="value" value="pwp5" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="common-jpa.database-encryption.v06-password" />
+        <option name="value" value="pwp6" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="spring.datasource.url" />
+        <option name="value" value="jdbc:postgresql://localhost:5432/pwp?tcpKeepAlive=true" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="spring.datasource.username" />
+        <option name="value" value="pwp" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="spring.datasource.password" />
+        <option name="value" value="pwp" />
+      </param>
+      <param>
+        <option name="enabled" value="true" />
+        <option name="name" value="jhipster.cron.allNightlyUpdatesEnabled" />
+        <option name="value" value="false" />
+      </param>
+    </additionalParameters>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

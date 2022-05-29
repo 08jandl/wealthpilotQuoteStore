@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+
+    <changeSet id="2022-05-09-115100" author="s.jandl">
+        <createTable tableName="quote_identifier">
+            <column name="id" type="bigint">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="version" defaultValue="0" type="integer">
+                <constraints nullable="false"/>
+            </column>
+
+            <column name="isin" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="fetch_date" type="timestamp">
+                <constraints nullable="false"/>
+            </column>
+            <column name="market_place" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="quote_source" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+
+        <createTable tableName="quote">
+            <column name="id" type="bigint">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="version" defaultValue="0" type="integer">
+                <constraints nullable="false"/>
+            </column>
+
+            <column name="quote_identifier_id" type="bigint">
+                <constraints nullable="false"/>
+            </column>
+            <column name="quote_date" type="date">
+                <constraints nullable="false"/>
+            </column>
+            <column name="quote_amount" type="double">
+                <constraints nullable="false"/>
+            </column>
+            <column name="quote_currency" type="varchar(10)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="quote_type" type="varchar(255)">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+
+        <addUniqueConstraint tableName="quote_identifier"
+                             columnNames="isin"
+                             constraintName="unique_quote_identifier_isin"/>
+
+        <addUniqueConstraint tableName="quote"
+                             columnNames="quote_identifier_id, quote_date"
+                             constraintName="unique_quote_quote_identifier_and_quote_date"/>
+
+        <addForeignKeyConstraint baseTableName="quote"
+                                 baseColumnNames="quote_identifier_id"
+                                 referencedTableName="quote_identifier"
+                                 referencedColumnNames="id"
+                                 constraintName="fk_quote_quote_identifier"/>
+
+        <createIndex indexName="idx_quote_quote_identifier" tableName="quote">
+            <column name="quote_identifier_id"/>
+        </createIndex>
+    </changeSet>
+
+</databaseChangeLog>

@@ -1,0 +1,160 @@
+######################
+# Project Specific
+######################
+/target/www/**
+
+# environment-specific credentials file
+.pwp_credentials
+
+######################
+# Node
+######################
+/node_modules/**
+/node/**
+/node_tmp/**
+**/node_modules/**
+**/node/**
+
+######################
+# SASS
+######################
+.sass-cache/**
+
+######################
+# Eclipse
+######################
+*.pydevproject
+.project
+.metadata
+.checkstyle
+/bin/**
+/tmp/**
+/tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/**
+.loadpath
+/src/main/resources/rebel.xml
+
+# External tool builders
+.externalToolBuilders/**
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+######################
+# Intellij
+######################
+*.iml
+
+# exclude all
+.idea/*
+# except those explicitely allowed:
+!.idea/codeStyles
+!.idea/dictionaries
+!.idea/inspectionProfiles
+!.idea/runConfigurations
+# !.idea/.name
+!.idea/checkstyle-idea.xml
+# !.idea/compiler.xml
+!.idea/encodings.xml
+!.idea/misc.xml
+
+######################
+# Maven
+######################
+*/log/**
+*/target/**
+
+######################
+# Gradle
+######################
+.gradle/**
+
+######################
+# Package Files
+######################
+*.jar
+*.war
+*.ear
+*.db
+
+
+######################
+# Windows
+######################
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+######################
+# Mac OSX
+######################
+.DS_Store
+.svn
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+######################
+# Directories
+######################
+/build/**
+/spring_loaded/**
+/deploy/**
+
+######################
+# Logs
+######################
+*.log
+nohup.out
+
+######################
+# Others
+######################
+*.class
+*.*~
+*~
+.merge_file*
+/src/main/webapp/app/app.constants.js
+
+######################
+# ESLint
+######################
+.eslintcache
+pwp.sublime-workspace
+
+/target/
+/PhantomJS_*
+
+/src/main/scripts/fiducia/workspace/
+
+## as we use yarn
+/**/package-lock.json
+
+## Helvetia orig files
+/src/main/resources/config/b2b-testdata/HELVETIA/orig/**
+
+# local db containers files
+docker/local/db/*
+
+# npm token file
+.npmrc
+/quoteCacheDumpFile.json
+/wealthpilot-app/quoteCacheDumpFile.json

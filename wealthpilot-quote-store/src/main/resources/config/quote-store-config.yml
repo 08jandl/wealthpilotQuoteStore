@@ -1,0 +1,4 @@
+quote-store:
+  update:
+    #     sec min     hr     day month weekday
+    cron:  0  15   0,6,12,18  *    *     2-6

@@ -1,0 +1,102 @@
+{
+  "categories": [
+    {
+      "id": 301,
+      "name": "Auto & Transport",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": [
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ]
+    },
+    {
+      "id": 302,
+      "name": "KFZ-Kredit",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 303,
+      "name": "KFZ-Leasing",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 304,
+      "name": "Bußgeld",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 305,
+      "name": "KFZ-Steuer",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 306,
+      "name": "KFZ-Versicherung",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 307,
+      "name": "Parken und Garage",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 308,
+      "name": "Tanken",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 309,
+      "name": "TÜV",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 310,
+      "name": "Wartung und Reparatur",
+      "parentId": 301,
+      "parentName": "Auto & Transport",
+      "isCustom": false,
+      "children": null
+    },
+    {
+      "id": 311,
+      "name": "Bildung & Beruf",
+      "parentId": null,
+      "parentName": null,
+      "isCustom": false,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+# Secure defaults
+# See: https://stribika.github.io/2015/01/04/secure-secure-shell.html
+Protocol 2
+HostKey /etc/ssh/ssh_host_ed25519_key
+HostKey /etc/ssh/ssh_host_rsa_key
+
+# Faster connection
+# See: https://github.com/atmoz/sftp/issues/11
+UseDNS no
+
+# Limited access
+PermitRootLogin no
+X11Forwarding no
+AllowTcpForwarding no
+
+# Force sftp and chroot jail, set umask to 007 (no others access rights at all)
+Subsystem sftp internal-sftp -u 0007
+ForceCommand internal-sftp -u 0007
+ChrootDirectory %h
+
+# Enable this for more logs
+#LogLevel VERBOSE
+
+# Hardening (see https://medium.com/@jasonrigden/hardening-ssh-1bcb99cd4cef)
+
+# Only allow public key authentication
+PasswordAuthentication no
+ChallengeResponseAuthentication no
+
+# Disconnect idle sessions
+ClientAliveInterval 300
+ClientAliveCountMax 2
+

@@ -1,0 +1,50 @@
+# All text files should have the "lf" (Unix) line endings
+* text eol=lf
+
+# Explicitly declare text files you want to always be normalized and converted
+# to native line endings on checkout.
+*.java text
+*.js text
+*.css text
+*.html text
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.PNG binary
+*.jpg binary
+*.JPG binary
+*.jar binary
+*.JAR binary
+*.pdf binary
+*.PDF binary
+*.eot binary
+*.EOT binary
+*.ttf binary
+*.TTF binary
+*.gzip binary
+*.GZIP binary
+*.gz binary
+*.GZ binary
+*.tgz binary
+*.TGZ binary
+*.zip binary
+*.ZIP binary
+*.ai binary
+*.eps binary
+*.swf binary
+*.otf binary
+*.OTF binary
+*.woff binary
+*.WOFF binary
+*.woff2 binary
+*.WOFF2 binary
+*.jks binary
+*.dll binary
+*.DLL binary
+*.exe binary
+*.EXE binary
+*.ico binary
+*.ICO binary
+*.pptx binary
+*.docx binary
+*.lic binary

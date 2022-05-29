@@ -1,0 +1,138 @@
+Apotheke
+Arztbehandlung
+Ausbildungsgebühren
+Ausflug
+Auto & Transport
+BAFÖG & Studienkredit
+Babybedarf
+Bahn
+Bankgebühr
+Barabhebung
+Bareinzahlung
+Bekleidung
+Beratung & Therapie
+Berufsausstattung
+Berufsunfähigkeit
+Bewirtung
+Bildung & Beruf
+Bonus
+Bußgeld
+Bücher
+Büromaterial
+Büromiete
+Drogerie
+Einkommen
+Elektronik & Software
+Erbschaft und Schenkung
+Fahrtkosten
+Festnetz & Internet
+Filme
+Finanzberatung
+Finanzen & Beratung
+Fitness & Wellness
+Flug
+Freizeit, Hobbys & Soziales
+Fremdleistung
+Friseur
+Garten
+Gehalt
+Geldanlage
+Geschenk
+Geschäftsausstattung
+Geschäftseinnahme
+Geschäftskommunikation
+Geschäftsreise
+Gesundheit, Wellness, Pflege
+Gewerbe
+Gewerbliche Steuer
+Gewerkschaft und Verband
+Grundsteuer
+Haftpflicht
+Handy
+Haushaltsbedarf
+Haushaltsdienstleistung
+Haushaltsgeräte
+Haushaltsversicherung
+Haustier
+Heilbehandlung
+Heimwerken & Baustoffe
+Hobbys
+Honorar, Gage
+Hotel und Unterkunft
+Immobilienkredit
+KFZ-Kredit
+KFZ-Leasing
+KFZ-Steuer
+KFZ-Versicherung
+Kammer und Berufsverband
+Kantine und Verpflegung
+Kapitaleinkommen
+Kinder
+Kinderaktivitäten
+Kinderbekleidung
+Kinderbetreuung
+Kirche
+Kontentransfer
+Kosmetik & Pflege
+Krankenversicherung
+Kreditauszahlung / -tilgung
+Kreditkartenabrechnung
+Kreditzinsen
+Kunst & Kultur
+Lebenshaltung
+Lebensmittel & Getränke
+Lebensversicherung
+Lehrmaterial
+Miete
+Mieteinnahmen
+Mietwagen
+Musik
+Möbel & Dekoration
+Nahverkehr
+Optiker
+Parken und Garage
+Party und Ausgehen
+Personal
+Pflegeversicherung
+Private Auslage
+Privater Veräußerungsgewinn
+Rechtsberatung
+Rechtsschutzversicherung
+Reisen
+Rente und Pension
+Restaurant
+Sanitätsbedarf
+Schmuck & Accessoires
+Schuhe
+Shopping & Unterhaltung
+Sonstige
+Spende
+Spielwaren
+Spirituosen & Tabak
+Sport
+Sportausrüstung
+Staatliche Leistung
+Steuer / Rückerstattung
+Steuerberatung
+Stipendium
+TV
+Tanken
+Taschengeld
+Taschengeld
+Taxi
+Tierarzt
+Tierbedarf
+Tierpflege
+Tiersteuer und Abgabe
+TÜV
+Unfallversicherung
+Unterhalt
+Unterhalt
+Verein
+Versicherung
+Wartung und Reparatur
+Wohnen
+Wohnnebenkosten
+Wäscherei
+Zahnarzt
+Zeitungen & Zeitschriften
